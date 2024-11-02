@@ -1,4 +1,12 @@
-## Hi there 👋
+# About Me
+
+# Languages and Tools
+
+# Projects
+
+# Interests and Hobbies
+
+# Contact Information
 
 <!--
 **yuki-scribbles/yuki-scribbles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
