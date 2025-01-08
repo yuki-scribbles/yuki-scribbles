@@ -2,9 +2,32 @@
 Senior at LSU with an interest in machine learning and cybersecurity!
 
 # Languages and Tools
+
+Languages proficient in:
 - Python
 - C#
 - Typescript
+- Java
+- MySQL
+
+Basic language proficiency in:
+- C
+- C++
+
+IDEs:
+- VSCode
+- Visual Studio
+- Matlab
+
+Frameworks:
+- Front end: React Native
+- Backend: NestJS, Prisma
+- Game design: Unity, Godot
+
+Other tools:
+- Docker
+- Github/Git
+
 
 # Projects
 
@@ -21,7 +44,7 @@ Cowboys with Wands
 Journal Buddy
 - Collaborated with 4 other people on a react native and firebase project to create an app with a journaling system and habit tracker
 
-# Interests and Hobbies
+# Other Interests and Hobbies
 - Drawing
 - Singing
 <!--
