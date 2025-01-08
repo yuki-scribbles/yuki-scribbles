@@ -1,5 +1,6 @@
 # About Me
 Senior at LSU with an interest in machine learning and cybersecurity!
+Current status: Studying for GPEN certificate for LSU's Cyber Clinic
 
 # Languages and Tools
 
