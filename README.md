@@ -12,10 +12,12 @@ PinPin
 - Collaborated with 3 other teamates on a location based social media app
 - Front end: React Native  Backend: NestJS and Prisma, using Docker to run the Postgress database.
 - Contributed to coding part of the backend API and a page of the front end
+
 Cowboys with Wands
 - Collaborated with 2 other people on a Unity game
 - Turn based combat system with computer opponents and tilemap
 - Worked on sprite art and computer opponents logic
+
 Journal Buddy
 - Collaborated with 4 other people on a react native and firebase project to create an app with a journaling system and habit tracker
 
